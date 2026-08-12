@@ -22,7 +22,7 @@ Over 1.5+ years of hands-on experience, I've shipped **6 Flutter mobile apps**, 
 - 🤖 Building with LLMs — LangChain, RAG, and prompt engineering, shipped into real apps
 - 💬 Ask me about full-stack architecture, applied ML, or LLM/GenAI integration
 - 📍 Based in Bengaluru, India — open to Hyderabad, remote, or hybrid roles
-- 🎯 Open to: Full-Stack Developer · Applied ML Engineer · Data Analyst roles
+- 🎯 Open to: Full-Stack Developer · Applied ML Engineer · SDE · FDE · Data Analyst roles
 
 ---
 
