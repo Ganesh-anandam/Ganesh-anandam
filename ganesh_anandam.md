@@ -79,8 +79,6 @@ Claude Code · GitHub Copilot · Cursor · RAG · Prompt Engineering
 
 ### 📌 Featured Projects
 
-> _Add your top 2–4 repos here — pin them on your GitHub profile and briefly describe each below._
-
 - **Crop Recommendation System** — ML model trained and tuned to recommend crops based on soil/climate parameters, deployed on AWS with PostgreSQL, running on an automated schedule at production scale.
 - **Fertilizer Recommendation System** — Recommends fertilizers based on crop parameters and soil data, built alongside the crop recommendation pipeline.
 - **Full-Stack Web Platform** — End-to-end web application built with React.js/Next.js, Flask, and MongoDB.
@@ -94,21 +92,6 @@ Claude Code · GitHub Copilot · Cursor · RAG · Prompt Engineering
 - Google AI Essentials (Sep 2025)
 - Generative AI Fundamentals (Feb 2026)
 - Google Cloud Skills Boost — Introduction to LLMs, Introduction to Generative AI, MLOps for Generative AI, MLOps with Agent Platform: Model Evaluation, Responsible AI (Jul 2026)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganesh-anandam&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-anandam&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ganesh-anandam&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-> 💡 If the images above don't render: these badges only work once your `Ganesh-anandam` repo is **public** with a `README.md` in it. GitHub also caches these for a few minutes, so give it a moment after publishing.
 
 ---
 
